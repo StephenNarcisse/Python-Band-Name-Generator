@@ -1,0 +1,5 @@
+print("Hello, let's create a name for your band!")
+city = input("What city did you grow up in? \n")
+pet = input("What's the name of a pet you've owned? If no pet, what's your favorite animal? \n")
+print('A possible band name for you is ' + city + " " + pet)
+#   https://band-name-generator-end.appbrewery.repl.run/
